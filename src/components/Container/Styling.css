@@ -1,0 +1,29 @@
+.mainContainer{
+    height: 85vh;
+    padding: 2rem;
+}
+#state-block , #city-block, #landmark-block{
+    padding: 2rem;
+}
+label{
+    font-size: 40px;
+    color: #27AEDB;
+}
+select{
+margin-left: 1%;
+padding: 5px;
+font-size: 20px;
+border: none;
+/* border-bottom: 2px solid black; */
+}
+#state-title, #city-title,#landmark-title {
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 25px;
+}
+
+#state-description, #city-description, #landmark-description{
+    font-size: 15px;
+    margin-left: 2%;
+    margin-top: 0.5rem;
+}
