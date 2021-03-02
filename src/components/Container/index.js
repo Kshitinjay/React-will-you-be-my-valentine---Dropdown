@@ -65,7 +65,7 @@ const Container = ({ states }) => {
           {states[state].city[city].landmarks[town].name}
         </div>
         <div id="landmark-description">
-          {states[state].city[city].landmarks[town].name}
+          {states[state].city[city].landmarks[town].description}
         </div>
       </div>
     </div>
